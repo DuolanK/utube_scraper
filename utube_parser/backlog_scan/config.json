@@ -1,0 +1,10 @@
+{
+    "google_api_keys": {
+    "key1": "",
+    "key2": ""
+    },
+    "service_account": {
+        "config_id": "",
+        "config_sheet_name": "config"
+    }
+}
